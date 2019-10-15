@@ -18,6 +18,6 @@ $("input[type='text']").keypress(function(event){
         let todoText = $(this).val();
         $(this).val("");
         // creating a new li and adding it to the lu
-        $("ul").append("<li><span>X </span>" + todoText + "</li>");
+        $("ul").append("<li><span><i class='fas fa-trash'></i></span>" + todoText + "</li>");
     }
 });
