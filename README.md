@@ -7,3 +7,4 @@ Normal Page:
 
 When adding or removing todo's:
 
+![EDIT](https://user-images.githubusercontent.com/56028164/69966187-2b693380-1516-11ea-9c83-d80cf36e057b.PNG)
